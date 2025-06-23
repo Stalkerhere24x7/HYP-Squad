@@ -1,0 +1,5 @@
+{
+  "name": "HYP Squad",
+  "description": "HYP Squad is an application featuring AI-powered agents (Content Artisan, Media Maestro, Campaign Commander) to assist with content generation, media planning, and campaign creation using the Gemini API.",
+  "requestFramePermissions": []
+}
